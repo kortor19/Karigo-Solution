@@ -60,3 +60,10 @@ a{
     border-bottom: 1px solid green;
     
   }
+
+  .nav-link{
+      font-style: normal;
+      color: black;
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 18;
+  }
